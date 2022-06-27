@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="persistencia.EmpleadoDTO">
+    <void property="dni">
+     <string>4955151</string>
+    </void>
+    <void property="name">
+     <string>empleado1</string>
+    </void>
+    <void property="password">
+     <string>1234</string>
+    </void>
+    <void property="phone">
+     <string>2224656</string>
+    </void>
+    <void property="puntaje">
+     <double>15.0</double>
+    </void>
+    <void property="surname">
+     <string>apellido1</string>
+    </void>
+    <void property="type">
+     <string>FISICA</string>
+    </void>
+    <void property="username">
+     <string>Empleado1</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
